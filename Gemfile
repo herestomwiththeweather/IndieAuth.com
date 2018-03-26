@@ -24,6 +24,7 @@ gem 'omniauth-twitter'
 gem 'omniauth-openid'
 gem 'omniauth-eventbrite'
 gem 'omniauth-beeminder', :git => 'https://github.com/aaronpk/omniauth-beeminder'
+gem 'omniauth-goodreads', git: 'https://github.com/herestomwiththeweather/omniauth-goodreads.git'
 
 gem 'ruby-openid'
 

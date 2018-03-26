@@ -30,6 +30,7 @@ class Provider
       'github' => 'https?:\/\/(?:www\.)?github\.com\/([^\/]+)',
       #'google_oauth2' => 'https?:\/\/(?:www\.)?(?:profiles\.|plus\.|)google\.com\/([^\/]+)',
       #'lastfm' => 'https?:\/\/(?:www\.)?last\.fm\/user\/(.+)',
+      'goodreads' => 'https?:\/\/(?:www\.)?goodreads\.com\/user\/show\/(.+)',
       'twitter' => 'https?:\/\/(?:www\.)?twitter\.com\/([^\/]+)'
     }
   end
